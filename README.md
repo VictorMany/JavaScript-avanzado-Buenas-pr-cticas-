@@ -1,1 +1,1 @@
-# JavaScript-avanzado-Buenas-pr-cticas-
+# JavaScript-avanzado-Buenas-practicas-

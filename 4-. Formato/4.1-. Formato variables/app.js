@@ -1,5 +1,13 @@
-//Si lo ponemos en mayúscula para definir que usamos una constante
-var LIMITE = '';
+//ESILO CAMEL CASE
+// Primera letra en minuscula y la segunda de la siguiente palabra en mayúscula
+var nombreCompleto = 'Víctor Manuel';
+function saludarPersona() {
 
-//si son mas de una palabra usamos snake case
-var LIMITE_TOTAL = 30;
+}
+
+//snake case
+var nombre_completo = 'Víctor Manuel';
+
+function saludar_persona() {
+
+}
